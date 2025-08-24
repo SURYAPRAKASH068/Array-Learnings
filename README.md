@@ -3,43 +3,60 @@
 Welcome to my Java Practice Repository 🎯
 Here I solve problems related to Arrays and ArrayList — from basic to intermediate level.
 
-📌 Topics Covered
+📌 Topics & Problem List
+🔢 Arrays – Basics
 
-🔢 Arrays Basics
+ Print an Array
 
-Declaration & Initialization
+ Reverse an Array
 
-Traversal & Iteration
+ Find Minimum & Maximum Element
 
-Searching & Sorting
+ Linear Search in Array
 
-📊 Array Problems
+ Binary Search in Sorted Array
 
-Reverse an Array
+ Sum of Array Elements
 
-Find Min & Max
+📊 Arrays – Intermediate
 
-Rotate Array
+ Rotate Array (Left/Right)
 
-Remove Duplicates
+ Remove Duplicates from Sorted Array
 
-📝 ArrayList Basics
+ Merge Two Sorted Arrays
 
-Adding & Removing Elements
+ Subarray with Given Sum
 
-Iterating with Loops & Iterators
+ Kadane’s Algorithm (Maximum Subarray Sum)
 
-Searching Elements
+ Two Sum Problem
 
-🚀 Intermediate Problems
+📝 ArrayList – Basics
 
-Merge Two Arrays
+ Create & Print an ArrayList
 
-Subarray Problems
+ Add / Remove Elements
 
-Two Sum / Pair Problems
+ Search for an Element
 
-Dynamic ArrayList Operations
+ Iterate using For Loop
+
+ Iterate using Iterator
+
+ Sort an ArrayList
+
+🚀 ArrayList – Intermediate
+
+ Merge Two ArrayLists
+
+ Remove Duplicates
+
+ Find Frequency of Elements
+
+ Convert Array to ArrayList & vice versa
+
+ Nested ArrayList Example
 
 ⚡ How to Run
 
@@ -54,43 +71,20 @@ Compile and run any Java file:
 javac FileName.java
 java FileName
 
-✅ Example Problem
-🔄 Reverse an Array
-class ReverseArray {
-    public static void main(String[] args) {
-        int arr[] = {1, 2, 3, 4, 5};
-        int n = arr.length;
-        for (int i = n - 1; i >= 0; i--) {
-            System.out.print(arr[i] + " ");
-        }
-    }
-}
-
-
-Output:
-
-5 4 3 2 1
-
 🏆 Goals
 
-Practice 🏋️ daily
+✅ Daily practice 🏋️
 
-Improve problem-solving 🤔
+✅ Improve problem-solving 🤔
 
-Strengthen Java DSA foundation 💡
+✅ Strengthen Java DSA foundation 💡
 
 📚 Resources
 
 📘 Java Documentation
 
-💻 GeeksforGeeks - Arrays & ArrayList
+💻 GeeksforGeeks – Arrays & ArrayList
 
 🧩 LeetCode / HackerRank Practice
 
-🤝 Contributing
-
-This is my personal practice repo ✨ but feel free to suggest new problems or improvements via Issues or Pull Requests 🚀
-
-🔥 Stay Motivated
-
-"The more you practice, the better you get." 💪
+✨ Keep practicing — every ✅ makes you stronger 💪
